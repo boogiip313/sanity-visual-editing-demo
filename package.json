@@ -17,7 +17,7 @@
   "dependencies": {
     "@portabletext/react": "3.0.4",
     "@sanity/client": "6.1.7",
-    "@sanity/demo": "1.0.2",
+    "@sanity/demo": "2.0.0",
     "@sanity/image-url": "1.0.2",
     "@sanity/vision": "3.14.1",
     "@tailwindcss/typography": "0.5.9",
